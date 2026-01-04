@@ -3,3 +3,10 @@ Coleta de dados:
 - Sucesso: Quantidade absoluta de testes bem-sucedidos para cada protótipo
 - Frequência Acumulada (Fa): Soma cumulativa dos sucessos na ordem dos protótipos
 - Porcentagem (%): Representação percentual da frequência relativa.
+
+
+TIPO	      SUCESSO	  Fa	  Fr	    %
+Protótipo A	  5	      5	    0,25	  25
+Protótipo B	  8	      13	  0,40	  40
+Protótipo C	  7	      20	  0,35	  35
+TOTAL	        20		          1	    100
