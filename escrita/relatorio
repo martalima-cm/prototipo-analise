@@ -1,12 +1,51 @@
 # Metodologia
-Coleta de dados:
-- Sucesso: Quantidade absoluta de testes bem-sucedidos para cada protótipo
-- Frequência Acumulada (Fa): Soma cumulativa dos sucessos na ordem dos protótipos
-- Porcentagem (%): Representação percentual da frequência relativa.
+Coleta de Dados
+Sucesso: Quantidade absoluta de testes bem-sucedidos para cada protótipo
+
+Frequência Acumulada (Fa): Soma cumulativa dos sucessos na ordem dos protótipos
+
+Frequência Relativa (Fr): Proporção de sucessos de cada protótipo em relação ao total
+
+Porcentagem (%): Representação percentual da frequência relativa
 
 
-TIPO	      SUCESSO	  Fa	  Fr	    %
-Protótipo A	  5	      5	    0,25	  25
-Protótipo B	  8	      13	  0,40	  40
-Protótipo C	  7	      20	  0,35	  35
-TOTAL	        20		          1	    100
+# Análise dos Dados
+
+1. Cálculo da Frequência Acumulada (Fa)
+A frequência acumulada representa a soma progressiva dos sucessos:
+
+Protótipo A: Fa = 5 (primeiro valor)
+
+Protótipo B: Fa = 5 (A) + 8 (B) = 13
+
+Protótipo C: Fa = 13 (acumulado anterior) + 7 (C) = 20
+
+
+2. Cálculo da Frequência Relativa (Fr)
+A frequência relativa é calculada dividindo o sucesso de cada protótipo pelo total geral:
+
+Total de sucessos: 5 + 8 + 7 = 20
+
+Protótipo A: Fr = 5 ÷ 20 = 0,25
+
+Protótipo B: Fr = 8 ÷ 20 = 0,40
+
+
+3. Cálculo da Porcentagem (%)
+A porcentagem é obtida multiplicando a frequência relativa por 100:
+
+Protótipo A: 0,25 × 100 = 25%
+
+Protótipo B: 0,40 × 100 = 40%
+
+Protótipo C: 0,35 × 100 = 35%
+
+
+# Conclusões
+Desempenho Relativo dos Protótipos
+Protótipo B apresentou o melhor desempenho com 40% dos sucessos totais
+
+Protótipo C obteve 35% dos sucessos
+
+Protótipo A registrou 25% dos sucessos
+Protótipo C: Fr = 7 ÷ 20 = 0,35
