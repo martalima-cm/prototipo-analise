@@ -1,1 +1,5 @@
-
+# Metodologia
+Coleta de dados:
+- Sucesso: Quantidade absoluta de testes bem-sucedidos para cada protótipo
+- Frequência Acumulada (Fa): Soma cumulativa dos sucessos na ordem dos protótipos
+- Porcentagem (%): Representação percentual da frequência relativa.
